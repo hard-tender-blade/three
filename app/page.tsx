@@ -1,5 +1,5 @@
-import Navbar from "./components/navbar";
-import Scene from "./components/scene";
+import Navbar from "./componentsDenis/navbar";
+import Scene from "./componentsDenis/scene";
 
 export default function Page() {
   return (
