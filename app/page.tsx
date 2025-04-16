@@ -1,3 +1,10 @@
+import Navbar from "./components/navbar";
+import Scene from "./components/scene";
+
 export default function Page() {
-  return <main>hello</main>;
+  return (
+    <main>
+      <Scene />
+    </main>
+  );
 }
